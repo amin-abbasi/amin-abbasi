@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Who am I?
-Node.js Back-end developer with over 5 years of experience analyzing project infrastructures, designing models, implementing codes, testing and deploying server-side and client-side projects, and launching and maintaining servers.
+Back-end software engineer with over 7 years of experience analyzing project infrastructures, designing models, implementing codes, testing and deploying server-side and client-side projects, and launching and maintaining servers.
 
 [![twitter badge](https://img.shields.io/badge/-@amin4193-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/amin4193)
 [![dev.to badge](https://img.shields.io/badge/-amin4193-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/amin4193)
@@ -25,17 +25,14 @@ Node.js Back-end developer with over 5 years of experience analyzing project inf
 ![](https://komarev.com/ghpvc/?username=amin4193&color=brightgreen&style=flat)
 
 ### 🔭 I’m currently working on:
-- Blockchain
-- Cryptocurrencies
-- Centralized and de-centralized exchanges
-- Social trading
+- Healthcare services (HL7, FHIR, ...)
+- Blockchain (Cryptocurrencies, EX & DEX, Social trading, ...)
 - ...
 
 ### 🌱 I’m currently learning:
+- System Architectures
 - Python
-- Golang
 - Kubernetes
-- Deno
 - gRPC
 - ...
 
