@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Who am I?
-Back-end software engineer with over 7 years of experience analyzing project infrastructures, designing models, implementing codes, testing and deploying server-side and client-side projects, and launching and maintaining servers.
+I'm a seasoned Back-end Software Engineer with profound expertise in Node.js. With a career spanning several years, I've cultivated a deep understanding of this versatile runtime environment, utilizing it to craft high-performance, scalable solutions. I specialize in developing FHIR-based web applications and fine-tuning code for optimized speed and efficiency, often engaging in rigorous code reviews to ensure top-notch quality. My proficiency extends to various back-end tools such as WebSocket, RabbitMQ, and WebRTC, allowing me to engineer robust systems that seamlessly handle data flow and real-time communication.
 
 [![twitter badge](https://img.shields.io/badge/-@amin4193-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/amin4193)
 [![dev.to badge](https://img.shields.io/badge/-amin4193-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/amin4193)
@@ -25,14 +25,14 @@ Back-end software engineer with over 7 years of experience analyzing project inf
 ![](https://komarev.com/ghpvc/?username=amin4193&color=brightgreen&style=flat)
 
 ### 🔭 I’m currently working on:
-- Healthcare services (HL7, FHIR, ...)
+- ERP Systems
 - Blockchain (Cryptocurrencies, EX & DEX, Social trading, ...)
 - ...
 
 ### 🌱 I’m currently learning:
 - System Architectures
-- Python
-- Kubernetes
+- Golang
+- ArangoDB
 - gRPC
 - ...
 
@@ -58,10 +58,13 @@ Back-end software engineer with over 7 years of experience analyzing project inf
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="Typescript" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+  <img style="margin: 10px" src="https://arangodb.com/wp-content/uploads/2016/05/ArangoDB_logo_avocado_@1.png" alt="ArangoDB", height="50">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
@@ -82,6 +85,30 @@ Back-end software engineer with over 7 years of experience analyzing project inf
 </div>
 
 </td></tr></table>
+
+<br/>
+
+## Connect with me  
+<div align="center">
+  <a href="https://github.com/amin4193" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://dev.to/amin4193" target="_blank">
+    <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/amin4193" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.facebook.com/amin4193" target="_blank">
+    <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://instagram.com/amin4193" target="_blank">
+    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://gitlab.com/amin4193" target="_blank">
+    <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+  </a>
+</div>
 
 ## Stats
 <p>
