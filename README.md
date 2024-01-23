@@ -1,7 +1,7 @@
 ## Hi there, I'm Amin 👋
 
 <!--
-**amin4193/amin4193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**amin-abbasi/amin-abbasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -21,8 +21,8 @@ I'm a seasoned Back-end Software Engineer with profound expertise in Node.js. Wi
 [![twitter badge](https://img.shields.io/badge/-@amin4193-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/amin4193)
 [![dev.to badge](https://img.shields.io/badge/-amin4193-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/amin4193)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amin4193@gmail.com)](mailto:amin4193@gmail.com)
-![githubbadge](https://img.shields.io/github/followers/amin4193?style=social)
-![](https://komarev.com/ghpvc/?username=amin4193&color=brightgreen&style=flat)
+![githubbadge](https://img.shields.io/github/followers/amin-abbasi?style=social)
+![](https://komarev.com/ghpvc/?username=amin-abbasi&color=brightgreen&style=flat)
 
 ### 🔭 I’m currently working on:
 - ERP Systems
@@ -90,7 +90,7 @@ I'm a seasoned Back-end Software Engineer with profound expertise in Node.js. Wi
 
 ## Connect with me  
 <div align="center">
-  <a href="https://github.com/amin4193" target="_blank">
+  <a href="https://github.com/amin-abbasi" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
   <a href="https://dev.to/amin4193" target="_blank">
@@ -112,6 +112,6 @@ I'm a seasoned Back-end Software Engineer with profound expertise in Node.js. Wi
 
 ## Stats
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amin4193&count_private=true&show_icons=true&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amin4193&layout=compact&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amin-abbasi&count_private=true&show_icons=true&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amin-abbasi&layout=compact&theme=dracula"/>
 </p>
