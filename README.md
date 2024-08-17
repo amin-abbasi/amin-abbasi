@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## Who am I?
-I'm a seasoned Back-end Software Engineer with profound expertise in Node.js. With a career spanning several years, I've cultivated a deep understanding of this versatile runtime environment, utilizing it to craft high-performance, scalable solutions. I specialize in developing FHIR-based web applications and fine-tuning code for optimized speed and efficiency, often engaging in rigorous code reviews to ensure top-notch quality. My proficiency extends to various back-end tools such as WebSocket, RabbitMQ, and WebRTC, allowing me to engineer robust systems that seamlessly handle data flow and real-time communication.
+I'm a seasoned Back-end Software Engineer with profound expertise in Node.js. With a career spanning several years, I've cultivated a deep understanding of this versatile runtime environment, utilizing it to craft high-performance, scalable solutions. I specialize in developing FHIR-based web applications and fine-tuning code for optimized speed and efficiency, often engaging in rigorous code reviews to ensure top-notch quality. My experience spans various domains, including ERP systems, CRM applications, fintech, eCommerce projects, cryptocurrency exchanges, and copy trading platforms.
+
+I am proficient with various Node.js frameworks, including Express.js, Koa, Hapi, Sails, Nest, and other back-end tools such as WebSocket, RabbitMQ, and WebRTC. I work with databases like ArangoDB, MongoDB, and PostgreSQL, and strongly focus on security with OAuth2, JWT, and encryption practices. I also prioritize quality through rigorous testing with tools like Jest and Mocha and leverage CI/CD pipelines using GitLab CI. Additionally, I have experience with containerization using Docker, limited experience with orchestration using Kubernetes, and have started practicing Go with the Echo framework. My expertise with message brokers, including RabbitMQ and Apache Kafka, and version control using Git further solidifies my ability to deliver robust, reliable systems.
 
 [![twitter badge](https://img.shields.io/badge/-@amin4193-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/amin4193)
 [![dev.to badge](https://img.shields.io/badge/-amin4193-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/amin4193)
@@ -26,7 +28,7 @@ I'm a seasoned Back-end Software Engineer with profound expertise in Node.js. Wi
 
 ### 🔭 I’m currently working on:
 - ERP Systems
-- Blockchain (Cryptocurrencies, EX & DEX, Social trading, ...)
+- Blockchain (Social trading, NFT)
 - ...
 
 ### 🌱 I’m currently learning:
