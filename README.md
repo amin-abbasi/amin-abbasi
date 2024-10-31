@@ -20,11 +20,10 @@ I'm a seasoned Back-end Software Engineer with profound expertise in Node.js. Wi
 
 I am proficient with various Node.js frameworks, including Express.js, Koa, Hapi, Sails, Nest, and other back-end tools such as WebSocket, RabbitMQ, and WebRTC. I work with databases like ArangoDB, MongoDB, and PostgreSQL, and strongly focus on security with OAuth2, JWT, and encryption practices. I also prioritize quality through rigorous testing with tools like Jest and Mocha and leverage CI/CD pipelines using GitLab CI. Additionally, I have experience with containerization using Docker, limited experience with orchestration using Kubernetes, and have started practicing Go with the Echo framework. My expertise with message brokers, including RabbitMQ and Apache Kafka, and version control using Git further solidifies my ability to deliver robust, reliable systems.
 
-[![twitter badge](https://img.shields.io/badge/-@amin4193-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/amin4193)
-[![dev.to badge](https://img.shields.io/badge/-amin4193-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/amin4193)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amin4193@gmail.com)](mailto:amin4193@gmail.com)
-![githubbadge](https://img.shields.io/github/followers/amin-abbasi?style=social)
-![](https://komarev.com/ghpvc/?username=amin-abbasi&color=brightgreen&style=flat)
+[![GitLab](https://img.shields.io/badge/GitLab-Contributions-orange?style=for-the-badge&logo=gitlab&logoColor=orange)](https://gitlab.dannie.com.tr/a_abbasi)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:amin4193@gmail.com)](mailto:amin4193@gmail.com)
+![githubbadge](https://img.shields.io/github/followers/amin-abbasi?style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=amin-abbasi&color=brightgreen&style=for-the-badge)
 
 ### 🔭 I’m currently working on:
 - ERP Systems
@@ -87,30 +86,6 @@ I am proficient with various Node.js frameworks, including Express.js, Koa, Hapi
 </div>
 
 </td></tr></table>
-
-<br/>
-
-## Connect with me  
-<div align="center">
-  <a href="https://github.com/amin-abbasi" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://dev.to/amin4193" target="_blank">
-    <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/amin4193" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.facebook.com/amin4193" target="_blank">
-    <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://instagram.com/amin4193" target="_blank">
-    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://gitlab.com/amin4193" target="_blank">
-    <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-  </a>
-</div>
 
 ## Stats
 <p>
